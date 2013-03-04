@@ -6,7 +6,7 @@ package prgitejemplo;
 
 /**
  *
- * @author bertoa
+ * @author Daniel Alejandro Castro García
  */
 public class GitAux {
     
@@ -19,6 +19,7 @@ public class GitAux {
     }
     
     public void metodoComunitario(){
+        //Línea nueva de comentario
         System.out.println("Aqui escribimos todos");
     }
 }
